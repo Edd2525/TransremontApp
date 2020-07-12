@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aLEgJ3hFgyxbOPOdLIcY1OqL7mEdQvs/tPcCwqxXjJPjvIUeHSyEQrETckFemNPzSnZ9rkqAi5hbFGjLxD9GMA==",
+  "dgSpecHash": "e9hfpf9gETF5qMvfS7NJVwMXWr1Oq81/hT+9w5S1D9EYm9Y/64jNnrtwgvtczapPkCY7rkkv31tLQ2B7egtTDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fernando_salas\\source\\repos\\Base\\Base\\Base.Android\\Base.Android.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\Eduardo\\Proyecto\\TransremontApp\\Base\\Base\\Base.Android\\Base.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\fernando_salas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.lifecycle.common\\1.1.1.3\\xamarin.android.arch.lifecycle.common.1.1.1.3.nupkg.sha512",
@@ -43,7 +43,7 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\Dell\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
   "logs": []
 }

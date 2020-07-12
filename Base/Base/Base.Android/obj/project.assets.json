@@ -1934,24 +1934,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fernando_salas\\.nuget\\packages\\": {},
+    "C:\\Users\\Dell\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fernando_salas\\source\\repos\\Base\\Base\\Base.Android\\Base.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\Eduardo\\Proyecto\\TransremontApp\\Base\\Base\\Base.Android\\Base.Android.csproj",
       "projectName": "Base.Android",
-      "projectPath": "C:\\Users\\fernando_salas\\source\\repos\\Base\\Base\\Base.Android\\Base.Android.csproj",
-      "packagesPath": "C:\\Users\\fernando_salas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fernando_salas\\source\\repos\\Base\\Base\\Base.Android\\obj\\",
+      "projectPath": "C:\\Users\\Dell\\Documents\\Eduardo\\Proyecto\\TransremontApp\\Base\\Base\\Base.Android\\Base.Android.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\Eduardo\\Proyecto\\TransremontApp\\Base\\Base\\Base.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\fernando_salas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1965,8 +1965,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\fernando_salas\\source\\repos\\Base\\Base\\Base\\Base.csproj": {
-              "projectPath": "C:\\Users\\fernando_salas\\source\\repos\\Base\\Base\\Base\\Base.csproj"
+            "C:\\Users\\Dell\\Documents\\Eduardo\\Proyecto\\TransremontApp\\Base\\Base\\Base\\Base.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Documents\\Eduardo\\Proyecto\\TransremontApp\\Base\\Base\\Base\\Base.csproj"
             }
           }
         }
