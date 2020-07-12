@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.csprojAssemblyReference.cache
 C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.AssemblyInfoInputs.cache
 C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.AssemblyInfo.cs
 C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.csproj.CoreCompileInputs.cache
+=======
+D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.csprojAssemblyReference.cache
+D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.csproj.CoreCompileInputs.cache
+D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.AssemblyInfoInputs.cache
+D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.AssemblyInfo.cs
+>>>>>>> 93fb69df52a09ce98a16a3acd52aebb198c76bb2
