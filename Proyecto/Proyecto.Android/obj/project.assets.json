@@ -795,21 +795,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escritorio\\ULACIT\\VII\\C#\\Proyecto\\TransremontApp\\Proyecto\\Proyecto.Android\\Proyecto.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\Eduardo\\Proyecto\\TransremontApp\\Proyecto\\Proyecto.Android\\Proyecto.Android.csproj",
       "projectName": "Proyecto.Android",
-      "projectPath": "D:\\Escritorio\\ULACIT\\VII\\C#\\Proyecto\\TransremontApp\\Proyecto\\Proyecto.Android\\Proyecto.Android.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Escritorio\\ULACIT\\VII\\C#\\Proyecto\\TransremontApp\\Proyecto\\Proyecto.Android\\obj\\",
+      "projectPath": "C:\\Users\\Dell\\Documents\\Eduardo\\Proyecto\\TransremontApp\\Proyecto\\Proyecto.Android\\Proyecto.Android.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\Eduardo\\Proyecto\\TransremontApp\\Proyecto\\Proyecto.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
@@ -821,8 +826,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\Escritorio\\ULACIT\\VII\\C#\\Proyecto\\TransremontApp\\Proyecto\\Proyecto\\Proyecto.csproj": {
-              "projectPath": "D:\\Escritorio\\ULACIT\\VII\\C#\\Proyecto\\TransremontApp\\Proyecto\\Proyecto\\Proyecto.csproj"
+            "C:\\Users\\Dell\\Documents\\Eduardo\\Proyecto\\TransremontApp\\Proyecto\\Proyecto\\Proyecto.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Documents\\Eduardo\\Proyecto\\TransremontApp\\Proyecto\\Proyecto\\Proyecto.csproj"
             }
           }
         }

@@ -1,0 +1,6 @@
+C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.AssemblyInfo.cs
+C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.csproj.CoreCompileInputs.cache
