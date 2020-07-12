@@ -1,3 +1,0 @@
-D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
-D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto.Android\obj\Debug\81\Proyecto.Android.nuget.stamp
-D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto.Android\obj\Debug\81\Proyecto.Android.csprojAssemblyReference.cache
