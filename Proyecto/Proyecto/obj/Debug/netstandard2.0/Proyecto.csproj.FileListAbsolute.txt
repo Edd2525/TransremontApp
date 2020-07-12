@@ -1,0 +1,6 @@
+D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.csprojAssemblyReference.cache
+D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.csproj.CoreCompileInputs.cache
+D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.AssemblyInfoInputs.cache
+D:\Escritorio\ULACIT\VII\C#\Proyecto\TransremontApp\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.AssemblyInfo.cs
