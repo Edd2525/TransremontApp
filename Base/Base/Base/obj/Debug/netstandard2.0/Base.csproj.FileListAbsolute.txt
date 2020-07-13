@@ -26,3 +26,17 @@ C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Base\Base\Base\obj\Debug
 C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\Base.dll
 C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\ref\Base.dll
 C:\Users\Dell\Documents\Eduardo\Proyecto\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\Base.pdb
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\bin\Debug\netstandard2.0\Base.deps.json
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\bin\Debug\netstandard2.0\Base.dll
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\bin\Debug\netstandard2.0\ref\Base.dll
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\bin\Debug\netstandard2.0\Base.pdb
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\Base.csprojAssemblyReference.cache
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\Base.AssemblyInfoInputs.cache
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\Base.AssemblyInfo.cs
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\Base.csproj.CoreCompileInputs.cache
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\Base.dll
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\ref\Base.dll
+C:\Users\Campos Espinoza\Desktop\TransremontApp\Base\Base\Base\obj\Debug\netstandard2.0\Base.pdb

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Sd/vXPN0MmsVhe0BU5G9DykBjQozjNcbOdt477W6hD2R+tKz+I5LkIK82miF5dUze3ZPC1oubHIJYPPfBuNkXg==",
+  "dgSpecHash": "5IeczCnFVcustleBWZvbHnhCKaHNhvdav+GTKGDYkJ004VSqb/EDq+xMVlb/MR8rXRz9NsSuLusXfB81mkTXTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Documents\\Eduardo\\Proyecto\\TransremontApp\\Base\\Base\\Base.iOS\\Base.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Campos Espinoza\\Desktop\\TransremontApp\\Base\\Base\\Base.iOS\\Base.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Dell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Campos Espinoza\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\Campos Espinoza\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
   "logs": []
 }

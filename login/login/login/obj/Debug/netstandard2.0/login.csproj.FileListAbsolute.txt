@@ -1,0 +1,14 @@
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\bin\Debug\netstandard2.0\login.deps.json
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\bin\Debug\netstandard2.0\login.dll
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\bin\Debug\netstandard2.0\ref\login.dll
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\bin\Debug\netstandard2.0\login.pdb
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\obj\Debug\netstandard2.0\login.csprojAssemblyReference.cache
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\obj\Debug\netstandard2.0\login.AssemblyInfoInputs.cache
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\obj\Debug\netstandard2.0\login.AssemblyInfo.cs
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\obj\Debug\netstandard2.0\login.csproj.CoreCompileInputs.cache
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\obj\Debug\netstandard2.0\login.dll
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\obj\Debug\netstandard2.0\ref\login.dll
+C:\Users\Campos Espinoza\Desktop\ULACIT\login\login\login\obj\Debug\netstandard2.0\login.pdb
